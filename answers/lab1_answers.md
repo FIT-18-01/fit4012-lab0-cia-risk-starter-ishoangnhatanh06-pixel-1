@@ -37,7 +37,12 @@ Ghép từng sự cố với CIA.
 ## 4. Reflection
 Viết 5-7 dòng.
 
-Nếu là quản trị viên hệ thống, tôi sẽ ưu tiên xử lý vấn đề C (vi phạm tính bảo mật) trước tiên. Lý do là vì việc lộ danh sách điểm ảnh hưởng đến quyền riêng tư của tất cả sinh viên, có thể dẫn đến hậu quả nghiêm trọng như bị đe dọa, tống tiền hoặc phân biệt đối xử trong xã hội. Điều này không chỉ gây tổn hại về mặt tâm lý mà còn có thể dẫn đến các vấn đề pháp lý cho trường học. Tiếp theo là vấn đề B (vi phạm tính toàn vẹn), vì việc thay đổi điểm số có thể làm mất niềm tin vào hệ thống giáo dục và ảnh hưởng trực tiếp đến kết quả học tập, tương lai nghề nghiệp của sinh viên. Cuối cùng là vấn đề A (vi phạm tính sẵn sàng), mặc dù quan trọng trong việc đảm bảo truy cập kịp thời, nhưng có thể khắc phục nhanh chóng hơn thông qua các biện pháp dự phòng như sao lưu và cân bằng tải, và ít gây thiệt hại lâu dài hơn so với hai vấn đề kia. Việc ưu tiên này dựa trên mức độ tác động và rủi ro đối với người dùng và tổ chức, cũng như nguyên tắc bảo vệ dữ liệu cá nhân trong các hệ thống thông tin.
+Nếu là quản trị viên hệ thống, tôi sẽ ưu tiên xử lý vấn đề C (vi phạm tính bảo mật) trước tiên.
+Lý do là vì việc lộ danh sách điểm ảnh hưởng đến quyền riêng tư của tất cả sinh viên,
+có thể dẫn đến hậu quả nghiêm trọng như bị đe dọa, tống tiền hoặc phân biệt đối xử trong xã hội.
+Điều này không chỉ gây tổn hại về mặt tâm lý mà còn có thể dẫn đến các vấn đề pháp lý cho trường học.
+Tiếp theo là vấn đề B (vi phạm tính toàn vẹn), vì việc thay đổi điểm số có thể làm mất niềm tin vào hệ thống.
+Cuối cùng là vấn đề A (vi phạm tính sẵn sàng), mặc dù quan trọng nhưng có thể khắc phục nhanh chóng hơn.
 
 ## 5. Bonus Flag
 `FIT4012{A-?-B-?-C-?}`
