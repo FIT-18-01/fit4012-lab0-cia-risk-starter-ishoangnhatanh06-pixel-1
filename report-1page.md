@@ -15,18 +15,18 @@
 
 ### 3. Kết quả chính
 **Assets:**
-- 
-- 
+- Dữ liệu điểm số của sinh viên
+- Thông tin xác thực người dùng
 
 **CIA mapping:**
-- Sự cố A -> 
-- Sự cố B -> 
-- Sự cố C -> 
+- Sự cố A -> A (Availability)
+- Sự cố B -> I (Integrity)
+- Sự cố C -> C (Confidentiality)
 
 **Phân tích sự cố B:**
-- Threat: 
-- Vulnerability: 
-- Mitigation: 
+- Threat: Thay đổi trái phép dữ liệu điểm số
+- Vulnerability: Kiểm soát truy cập không đủ mạnh
+- Mitigation: Triển khai RBAC và ghi nhật ký kiểm tra 
 
 ### 4. Kết luận ngắn
-(4-6 dòng: em học được gì từ bài lab này, phần nào khó nhất, điều gì cần chú ý khi phân tích một sự cố an toàn thông tin.)
+Từ bài lab này, tôi học được cách áp dụng bộ ba CIA để phân tích các sự cố bảo mật trong hệ thống thông tin. Phần khó nhất là phân biệt rõ ràng giữa threat và vulnerability, vì chúng thường liên quan mật thiết. Khi phân tích một sự cố an toàn thông tin, cần chú ý đến tác động thực tế đối với người dùng và ưu tiên xử lý dựa trên mức độ nghiêm trọng, đồng thời luôn ghi lại nhật ký để theo dõi và cải thiện.
