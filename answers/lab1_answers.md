@@ -36,7 +36,12 @@ Ghép từng sự cố với CIA.
 
 ## 4. Reflection
 Viết 5-7 dòng.
-Nếu là quản trị viên hệ thống, tôi sẽ ưu tiên xử lý vấn đề C trước tiên vì khi danh sách điểm bị lộ, đó là sự cố vi phạm tính bảo mật và quyền riêng tư của toàn bộ sinh viên, dễ dẫn đến mất uy tín và hậu quả pháp lý cho trường. Sau đó, tôi sẽ xử lý vấn đề B vì thay đổi điểm số là sự cố vi phạm tính toàn vẹn, trực tiếp làm mất niềm tin và công bằng trong hệ thống đánh giá học tập. Cuối cùng mới là vấn đề A vì sự cố về đăng nhập ảnh hưởng tính sẵn sàng, thường có thể khắc phục nhanh hơn bằng kiểm soát tải và dự phòng truy cập. Tôi cũng sẽ tăng cường giám sát, đào tạo nhân sự và xây dựng quy trình vận hành rõ ràng để ngăn chặn tái diễn.
+Nếu là quản trị viên hệ thống, tôi sẽ ưu tiên xử lý vấn đề C trước tiên vì đây là sự cố vi phạm tính bảo mật và ảnh hưởng đến quyền riêng tư của tập thể sinh viên.
+Tiếp đến tôi sẽ giải quyết vấn đề B vì việc thay đổi điểm số là vi phạm tính toàn vẹn và gây mất niềm tin vào hệ thống đánh giá.
+Cuối cùng tôi mới xử lý vấn đề A vì sự cố không đăng nhập được là vi phạm tính sẵn sàng và thường có thể khắc phục nhanh hơn bằng biện pháp dự phòng.
+Tôi cũng sẽ xây dựng quy trình giám sát chặt chẽ để phát hiện và truy vết sự cố kịp thời.
+Bên cạnh đó, đào tạo nhân viên vận hành và tài liệu hóa quy trình là cần thiết để ngăn chặn tái diễn.
+Việc ưu tiên này dựa trên mức độ tác động thực tế đến người dùng và rủi ro danh tiếng của nhà trường.
 
 ## 5. Bonus Flag
 `FIT4012{A-?-B-?-C-?}`
