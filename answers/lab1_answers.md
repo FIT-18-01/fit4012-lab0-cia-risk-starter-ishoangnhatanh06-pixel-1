@@ -40,8 +40,7 @@ Viết 5-7 dòng.
 Nếu là quản trị viên hệ thống, tôi sẽ ưu tiên xử lý vấn đề C (vi phạm tính bảo mật) trước tiên.
 Lý do là vì việc lộ danh sách điểm ảnh hưởng nghiêm trọng đến quyền riêng tư của tất cả sinh viên.
 Nó có thể dẫn đến các hậu quả như bị đe dọa, tống tiền hoặc phân biệt đối xử trong xã hội.
-Điều này không chỉ gây tổn hại tâm lý mà còn tiềm ẩn rủi ro pháp lý cho trường học.
-Tiếp theo, tôi sẽ xử lý vấn đề B (vi phạm tính toàn vẹn), vì thay đổi điểm số làm mất niềm tin vào hệ thống.Cuối cùng là vấn đề A (vi phạm tính sẵn sàng), dù quan trọng nhưng dễ khắc phục hơn bằng biện pháp dự phòng.
+Điều này không chỉ gây tổn hại tâm lý mà còn tiềm ẩn rủi ro pháp lý cho trường học.Tiếp theo, tôi sẽ xử lý vấn đề B (vi phạm tính toàn vẹn), vì thay đổi điểm số làm mất niềm tin vào hệ thống.Cuối cùng là vấn đề A (vi phạm tính sẵn sàng), dù quan trọng nhưng dễ khắc phục hơn bằng biện pháp dự phòng.Việc ưu tiên này dựa trên mức độ tác động và rủi ro đối với người dùng.
 
 ## 5. Bonus Flag
 `FIT4012{A-?-B-?-C-?}`
